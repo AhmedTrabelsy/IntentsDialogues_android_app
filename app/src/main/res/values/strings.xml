@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents-Dialogues</string>
+    <string name="valider">Valider</string>
+    <string name="email">Email</string>
+    <string name="nom">Nom</string>
+    <string name="pr_nom">Prénom</string>
+</resources>
